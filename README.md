@@ -1,1 +1,3 @@
 # Individual-Project
+
+A website advertising video games that showcases vital information like prices, reviews, genres, publisher/company, and potential sales for the game. It will display where you can purchase the game and what consoles it is available for. The site will also display screenshots of the game and videos if there are official trailers available for the game. Users will be able to make accounts where they can keep a list of games they would potentially want to purchase or learn more about. Game information will be inserted into a database where users can search for specific aspects about games they like. An example of a search would be action genre, or games made by Nintendo. 
